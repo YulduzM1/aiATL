@@ -1,6 +1,4 @@
 import streamlit as st
-import matplotlib.pyplot as plt
-import numpy as np
 
 def display_navbar():
     st.sidebar.title("Assignments")
